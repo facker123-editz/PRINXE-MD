@@ -27,7 +27,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+global.mods = ['94742343170'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -118,7 +118,7 @@ global.princeImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/message/94742343170' //contact
 //💌------------------------------------------💌
 
 
@@ -126,8 +126,8 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 //Sticker WM
 global.botname = process.env.BOT_NAME
 global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
+global.packname = process.env.FACKER_EDITZ
+global.author = 'Prince Facker♥️' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
